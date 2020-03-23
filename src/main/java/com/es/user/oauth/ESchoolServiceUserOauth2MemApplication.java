@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class ESchoolUserServiceOauth2MemApplication {
+public class ESchoolServiceUserOauth2MemApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ESchoolUserServiceOauth2MemApplication.class, args);
+        SpringApplication.run(ESchoolServiceUserOauth2MemApplication.class, args);
     }
 
 }

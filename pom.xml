@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>com.es</groupId>
-    <artifactId>e-school-user-service-oauth2-mem</artifactId>
+    <artifactId>e-school-service-user-oauth2-mem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>e-school-user-service-oauth2-mem</name>
+    <name>e-school-service-user-oauth2-mem</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
