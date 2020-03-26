@@ -1,4 +1,4 @@
-package com.es.user.oauth.config;
+package com.es.user.mem.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

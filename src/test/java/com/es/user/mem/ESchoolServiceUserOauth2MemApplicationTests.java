@@ -1,4 +1,4 @@
-package com.es.user.oauth;
+package com.es.user.mem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
